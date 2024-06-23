@@ -28,12 +28,14 @@ This project is built using HTML, CSS, and Bootstrap to ensure a responsive and 
 
 ## Website Design
 
-![image](https://github.com/Talenteddolly/Chhattisgarh-Stories-Website/assets/105432776/9de82e55-845d-4781-83a1-82d701cc2610)
+![image](https://github.com/Talenteddolly/Chhattisgarh-Stories-Website/assets/105432776/39dfafb0-f6a0-4870-88c3-02015af7fb53)
+
 <br>
 <img src = "https://github.com/Talenteddolly/Chhattisgarh-Stories-Website/assets/105432776/d7c6dc6d-46f8-4b8e-b99b-8747c452bc04" width = "1000">
 <br>
 <img src = "https://github.com/Talenteddolly/Chhattisgarh-Stories-Website/assets/105432776/5f8e6d9e-63c0-49a2-a2c6-4f74fc97cdf0" width = "1000">
 <br>
+
 ![image](https://github.com/Talenteddolly/Chhattisgarh-Stories-Website/assets/105432776/b4c0d5a6-32ab-4acd-bfed-1cce24d94f75)
 
 ## Contribution
