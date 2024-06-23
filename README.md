@@ -29,11 +29,11 @@ This project is built using HTML, CSS, and Bootstrap to ensure a responsive and 
 ## Website Design
 
 ![image](https://github.com/Talenteddolly/Chhattisgarh-Stories-Website/assets/105432776/9de82e55-845d-4781-83a1-82d701cc2610)
-
-![image](https://github.com/Talenteddolly/Chhattisgarh-Stories-Website/assets/105432776/d7c6dc6d-46f8-4b8e-b99b-8747c452bc04)
-
-![image](https://github.com/Talenteddolly/Chhattisgarh-Stories-Website/assets/105432776/5f8e6d9e-63c0-49a2-a2c6-4f74fc97cdf0)
-
+<br>
+<img src = "https://github.com/Talenteddolly/Chhattisgarh-Stories-Website/assets/105432776/d7c6dc6d-46f8-4b8e-b99b-8747c452bc04" width = "1000">
+<br>
+<img src = "https://github.com/Talenteddolly/Chhattisgarh-Stories-Website/assets/105432776/5f8e6d9e-63c0-49a2-a2c6-4f74fc97cdf0" width = "1000">
+<br>
 ![image](https://github.com/Talenteddolly/Chhattisgarh-Stories-Website/assets/105432776/b4c0d5a6-32ab-4acd-bfed-1cce24d94f75)
 
 ## Contribution
@@ -46,8 +46,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or feedback, please reach out to us at [contact@example.com](mailto:contact@example.com).
+For any inquiries or feedback, please reach out to us at [Contact 1](mailto:rawatmadhurima@gmail.com) or [Contact 2](mailto:talenteddolly3@gmail.com).
 
----
 
 Explore the rich cultural and natural heritage of Chhattisgarh with Chhattisgarh Stories. Enjoy your journey!
