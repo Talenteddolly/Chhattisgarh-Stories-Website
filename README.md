@@ -4,7 +4,7 @@ A comprehensive website showcasing the cultural richness, natural beauty, and he
 
 ## Project Overview
 
-This project is built using HTML, CSS, and Bootstrap to ensure a responsive and visually appealing design. The website has been deployed and is accessible at [Chhattisgarh Stories](https://chhattisgarh-stories.netlify.app/).
+This project is built using HTML, CSS, and Bootstrap to ensure a responsive and visually appealing design. The website has been deployed and is accessible at [Chhattisgarh Stories Netlify](https://chhattisgarh-stories.netlify.app/) and [Chhattisgarh Stories GitHub Pages](https://talenteddolly.github.io/Chhattisgarh-Stories-Website/) .
 
 ## Features
 
