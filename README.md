@@ -4,7 +4,9 @@ A comprehensive website showcasing the cultural richness, natural beauty, and he
 
 ## Project Overview
 
-This project is built using HTML, CSS, and Bootstrap to ensure a responsive and visually appealing design. The website has been deployed and is accessible at [Chhattisgarh Stories Netlify](https://chhattisgarh-stories.netlify.app/) and [Chhattisgarh Stories GitHub Pages](https://talenteddolly.github.io/Chhattisgarh-Stories-Website/) .
+This project is built using HTML, CSS, and Bootstrap to ensure a responsive and visually appealing design. The website has been deployed and is accessible at [Chhattisgarh Stories Netlify](https://chhattisgarh-stories.netlify.app/) and [Chhattisgarh Stories GitHub Pages](https://talenteddolly.github.io/Chhattisgarh-Stories-Website/).
+
+**Created By:** Madhurima Rawat ([madhurimarawat](https://github.com/madhurimarawat)) and Dolly Sahu ([Talenteddolly](https://github.com/Talenteddolly))
 
 ## Features
 
@@ -48,7 +50,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or feedback, please reach out to us at [Contact 1](mailto:rawatmadhurima@gmail.com) or [Contact 2](mailto:talenteddolly3@gmail.com).
-
+For any inquiries or feedback, please reach out to:
+- **Madhurima Rawat** at [rawatmadhurima@gmail.com](mailto:rawatmadhurima@gmail.com) or visit [GitHub - madhurimarawat](https://github.com/madhurimarawat)
+- **Dolly Sahu** at [talenteddolly3@gmail.com](mailto:talenteddolly3@gmail.com) or visit [GitHub - Talenteddolly](https://github.com/Talenteddolly)
 
 Explore the rich cultural and natural heritage of Chhattisgarh with Chhattisgarh Stories. Enjoy your journey!
